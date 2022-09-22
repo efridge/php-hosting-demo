@@ -1,3 +1,3 @@
-# php-railway-demo
+# php-hosting-demo
 
-This is an attempt to host a PHP/MySQL app in Railway.
+This is an attempt to host a PHP/MySQL app in the cloud.
